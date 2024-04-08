@@ -15,8 +15,8 @@
 
 ## 3 Überschrift
 
-[!Warning]
-This is a info
-Multi Line
+> [!Warning]
+> This is a info
+> Multi Line
 
 What now?
